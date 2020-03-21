@@ -1,0 +1,103 @@
+---
+title: "Entrega Final"
+author: "Joaquin Quiroz"
+date: "1/28/2020"
+output: html_document
+csl: apa.csl
+bibliography: C:/Users/Paulina/Documents/Projects/My Projects/Tesis/apa.bib
+---
+
+# 1. Desarrollo de objetivos de investigación; pregunta y argumento
+
+## Pregunta
+
+Considerando tanto cadenas de comunicación locales y nacionales (donde toma relevancia la ubicación geográfica de los usuarios) [@Ib_ez_1999] como cadenas estructuradas y desestructuradas (comunicación de gente perteneciente a un grupo y entre miembros de grupos diferentes respectivamente) [@Newman_2011]. La pregunta de investigación es: ¿Que variables explican la difusión de información referente a fenómenos de sequía dentro de las zonas centrales de Chile en las redes sociales digitales desde el estallido social de octubre de 2019 hasta fines de ese año en Chile en Chile?
+
+## Objetivo e hipótesis
+
+Objetivo general: Identificar las variables que tienen mayor capacidad para difundir episodios de sequía en Chile a través de las redes sociales digitales, desde octubre de 2019 hasta el final del mismo año.  
+Especifico 1: Identificar las cadenas de comunicación relevantes para la difusión de episodios de sequía en las redes sociales digitales.  
+Especifico 2: Identificar las variables más importantes para la difusión de episodios de sequía en Chile a nivel geográfico.  
+Especifico 3: Identificar las variables más importantes para la difusión de episodios de sequía en Chile a nivel de estructura de las cadenas de comunicación.
+
+H1: Las cadenas de comunicación más relevantes para la difusión de problemas en torno a la sequía son la de personas que consumen contenidos políticos en un alto grado
+H2: Las formas de comunicar información alrededor de problemas de sequía más óptima son: 1) Dando énfasis al drama humano producido por esta situación, 2) Dando énfasis a discursos del tipo emocional.
+
+# 2. Columna de opinión de máximo 3 planas (aprox.)
+
+En Chile se va a tender a responsabilizar a terceros por la sequia existente.
+El medioambiente como capital político y moldeador de políticas, Chile en el contexto internacional
+
+El bastante complicado que las políticas públicas incorporen la protección del medioambiente, por un lado están los deseos generalizados por reducir el impacto ecológico producido por la actividad humana que choca con las aspiraciones que la población tiene para su propio estándar de vida. A lo que hay que sumar el desconocimiento del efecto real que determinadas políticas o sociedades tienen dentro del medioambiente, dado que si bien existen países con niveles de desarrollo avanzados con programas en defensa del medioambiente bastante avanzados (en términos de reciclaje, regulación de emisiones, preservación del patrimonio natural, regulaciones al desarrollo inmobiliario, etc.) estos países también poseen elevados niveles de consumo, por lo que terminan siendo sociedades a los que atribuir un alto nivel de emisiones de gases de efecto invernadero por persona, tal como es planteado en la ambiental de Kuznets [@catalan2014curva].
+
+En contraste a estos se encuentran los países menos desarrollados, los cuales debido a sus altos niveles de pobreza que limitan el consumo de la población permiten que posean bajos niveles de emisión per cápita, mas como contrapartida a esta realidad, esta población se encuentra expuesta a malas condiciones medioambientales y sanitarias, sumado a los efectos globales que el daño al medioambiente genera. Esto provoca que pese a tener un menor nivel de emisiones sea la población más afectada por el daño medioambiental, siendo que en cuantía es la que menos emisiones genera.
+
+En medio de estas realidades se encuentra Chile, con un nivel de emisiones por sobre su bio-capacidad de absorción desde el 2004 [@network2011national], lo cual se suma a su elevado nivel de desarrollo humano, líder en Latinoamérica [@desafío_2018], lo cual lleva al país a estar en medio de las dos realidades antes mencionadas, un estado intermedio en el que posee el bienestar suficiente para permitirse la protección de gran parte del territorio nacional pero a la vez que posee zonas altamente afectadas medioambientalmente hablando por el accionar productivo, además que el país lleva un aumento sostenido en la generación de otros tipos de contaminantes como las toneladas de residuos per cápita por año (2000 con 12 toneladas, 2005 con 14,6 toneladas y el 2009 con 19,6 toneladas) [@adaptchile2016], muy a la par con el aumento del PIB del país (2000 con 4.897 dólares al año, 2005 con 7.269 dólares al año y el 2009 con 9.525 dólares al año) [@adaptchile2016].
+
+Estos antecedente nos pueden llevar a cuestionar por qué las sociedades más avanzadas cuentan con mayores mecanismos para garantizar el bienestar ecológico del territorio que habitan, y si es que acaso para preocuparte del medioambiente antes hay que alcanzar el bienestar económico.
+
+Entendiendo la preocupación por el medioambiente puede ser definida como la percepción de que el medio ambiente natural está siendo amenazado por la acción humana [@franzen2010environmental] se pueden hallar en la actualidad 3 hipótesis principales que vienen a dar explicar desde donde surge esta preocupación [@mayerl2018two]: 1) La hipótesis de la globalización, 2) De la riqueza y 3) La hipótesis post material.
+
+La primera de estas hipótesis viene a decir que existe una preocupación por el medioambiente no se ve intervenida por el bienestar económico, por lo que en principio esta seria homogénea en todo el mundo. Respaldos de esta idea se hayan en las encuestas de valores en las cuales la preocupación es homogénea a lo largo de los países independientemente de su nivel de bienestar económico, de ser cierta esta idea se puede entender que dentro de las sociedades con menor desarrollo el medioambiente es un problema, mas ante la presencia de otros problemas más apremiantes el medioambiente quede desplazado dentro de las prioridades.
+
+La hipótesis de la riqueza viene a decir que para alcanzar una actitud pro-medioambiente sería necesario del contar con un bienestar económico, esta idea se haya respaldada por las acciones concretas que las sociedades con altos niveles de desarrollo realizan, en contraste a las encuestas de valores en las cuales la deseabilidad social podría viciar los resultados. Además existe evidencia de que tras superar cierto umbral de riqueza los valores materiales perderían importancia [@inglehart1987value].
+
+Finalmente la tercera hipótesis dice, al igual de la hipótesis de la riqueza, que es necesario de un bienestar económico para desarrollar preocupación por el medioambiente, pero a la vez existe determinados valores sociales que impedirían que el desarrollo de la preocupación medioambiental.
+
+Al ver que no existe en la actualidad partidos verdes con una presencia política fuerte en Chile como lo es en el caso de países desarrollados da pie a preguntar si es que lo propuesto por la hipótesis post-material se cumple en Chile, y que pese a su desarrollo no se logre una preocupación por el medioambiente. Es un aspecto a tomar en cuenta, por lo demás, esto se puede ver influenciado a determinadas dinámicas políticas que impedirían la consagración de un partido verde con una presencia política fuerte.
+
+El clientelismo es un arma política fundamental dentro de la política latinoamericana todavía [@rincon2011mucho] lo cual podría explicar la falta de desarrollo de partidos verdes.
+
+Finalmente me quedo con la idea de un chile en periodo de transición, dentro del cual cada vez más será toma en consideración las consecuencias ecológicas que tengan las diferentes actividades productivas, mas por la naturaleza clientelista de la política chilena, sumado a lo establecido que esta la elite política me hacen considerar que los problemas medioambientales se resolverán a partir de grandes movilizaciones de gente que logren o no tumbar determinados proyectos, y no desde las políticas que impidan el desarrollo de estos proyectos o del surgimiento de movimiento verdes que transformen la economía extractivita del país. Por tanto es mucho más importante que desde las ciencias sociales se logre una adecuada segmentación del público si es que se quiere llegar a difundir situaciones de sequía, puesto que para las localidades afectadas ecológicamente por proyectos extractivos dependen de comunicar su situación para solucionarla.
+
+# 3. Diseño de discusión teórica donde se planten dos temas relevantes de trabajar desde una perspectiva propia
+
+## Como opera la comunicación de la sequía en las redes sociales
+
+Existe un gran conocimiento referente a cómo funciona la comunicación dentro de las redes de microblogging como twitter. Existe gran homofilia propia de las redes sociales, dado que la gente suele comunicarse con gente que piensa de igual manera que ellos [@yardi2010dynamic]. También en discusiones marcadas por un evento de alto impacto las emociones de los tweets tienden a polarizarse [@yardi2010dynamic], o en otras palabras este efecto de homofilia se incrementa, por lo demás los mensajes emitidos con una fuerte carga emocional tienden a ser más virales dentro de las de usuarios que piensan de forma similar, en contraste con los argumentos del tipo racional que reciben menor difusión [@Brady_2017].
+
+En lo referente al uso de la twitter se puede caracterizar en 3: Los “information sources” que vienen a ser aquellas cuentas que postean noticias y que poseen una gran cantidad de seguidores; los “friends” que incluye a la mayor parte de usuarios, pueden ser amigos, familiares, colegas y extraños; finalmente los “information seekers” son aquellos que consumen información mas no postean contenido ellos mismos por lo general [@honey2009beyond]. Esto muestra una limitación para investigar a este último tipo de usuarios, o se puede saber su opinión a partir de su contenido puesto que este es inexistente, si se quisiera se tendría que investigar su consumo de contenido, mas eso escapa a la actual investigación.
+
+Ya se ha investigado largamente el aspecto conversacional de twitter [@pearce2013climate]. Se ha evidenciado que a lo largo de diferentes lenguajes el 30% de los tweets poseen un @, lo cual hace referencia a una interpelación directa a un usuario, y de estos tweets el 90% entra dentro de la categoría de conversación [@honey2009beyond].
+
+También se han creado mecanismos para describir la trayectoria de hashtag dentro de twitter, y se ha evidenciado su utilidad para investigaciones que traten que buscar una temática dentro de la red social [@huang2010conversational].
+
+Por lo demás, existe dentro de esta red social una cultura de tratar temas políticos, la gente retwittea para difundir el tweet a una nueva audiencia, para entretener, para comentar o agregar información al tweet retwitteado, para mostrar apoyo al contenido del tweet, entre otras razones [@huang2010conversational]. Por otra parte, las redes sociales han mostrado cumplir un rol fundamental dentro de los movimientos sociales contemporáneos [@Jost_2018] y dentro de los resultados electorales [@Bryden_2019].
+
+En lo referente a la discusión de problemáticas de sequía dentro de la plataforma la evidencia muestra que ante eventos de sequía hay evidencia de un aumento significativo de la discusión referente a este tema [@wagler2015exploring], por lo que la red muestra ser sensible al acontecer noticioso referente a la sequía y por tanto apropiada para esta investigación, esto se suma a la conocida relación entre la actividad realizada dentro de las redes sociales y las acciones políticas fuera de la red tanto a nivel internacional [@Yamamoto_2013] como en Chile [@Scherman_2014].
+
+Respecto a la investigación a casos concretos se pudo ver en el caso de los periodos de sequía que hubo en Nebraska durante el año 2012 hubo un aumento de discusión respecto a la agricultura y la economía [@wagler2015exploring], por lo que se puede ver que la discusión no cayo únicamente al fenómeno de la sequía sino que también a los efectos ocurridos sobre otras áreas de interés. Durante la IPCC de 2013 se evidencio la existencia de 3 grupos de usuarios, los ‘supportve’, los ‘neutral’ y los ‘unsupportive’ que se definen a partir de su apoyo con la IPCC [@pearce2013climate].
+
+Respecto a esta área de investigación encuentro que es interesante comprender los casos particulares, las dinámicas de discusión respecto a la sequía y como estas se modifican a partir de la contingencia, es hay que veo una ventana para encontrar evidencia sociológica nueva.
+
+## Que se discute cuando se habla de la sequía o que es realmente el medioambiente.
+
+Existe la noción dentro de la literatura sociológica de que las identidades medioambientales constituirían identidades liquidas [@rincon2011mucho], por tanto fáciles de adoptar por parte de los diferentes actores sociales, lo cual daría pie a que diferentes posturas políticas tuvieran una apropiación del término, e incluso que llegase a ser un significante vacío el cual viene a referir nada y sirve para ser utilizado tanto por campañas políticas como comerciales sin un impacto significativo en el cuidado del medioambiente.
+
+Lo anterior tiene algo de verdad, sobre todo cuando nos referimos a identidades las cuales son fluidas de por si [@dietz2018environmentalism]. Mas hay determinado tipo de comportamientos ecológicos que tienen un origen mucho más robusto, el de la gente que está viviendo directamente los efectos negativos del deterioro del medio en que habita.
+
+A nivel internacional la evidencia muestra que la gente de menores recursos y con perteneciente a minorías tienden a estar mayormente expuestos a problemas medioambientales como escases de agua [@pearson2018diverse]. Sumado a que la cercanía hacia zonas afectadas por el medioambiente favorece la preocupación respecto al medioambiente [@pearson2018diverse]. Sumado a lo anterior se tiende a sobreestimas la preocupación ecológica de a gente blanca frente a otros grupos étnicos como la población Latinoamericana, donde son las minorías las más preocupadas medioambientalmente [@pearson2018diverse].
+
+En definitiva existe evidencia de prejuicio, en los cuales es la gente con identidades asociadas a un mejor pasar económico (ser blanco) en circunstancias en las cuales a evidencia dice lo contrario. Por tanto a modo de entregar evidencia de tipo descriptiva considero que desde mi trabajo se puede aportar a partir de la caracterización geográfica de las opiniones y actividad en twitter referente a la sequía, presuponiendo diferencias en la actividad y mensajes emitidos a la red a partir de cuan directamente afectados que se vean por situaciones de sequía.
+
+# 4. Diseño del plan de análisis y metodología. 
+
+##	Detectar el tópico discutido (Named entity recognition)
+
+Para esta investigación el primer paso tras la definición del problema será la recolección de la base de datos, Primero que nada señalar que en las investigaciones que utilizan datos recolectados de internet esta suele ser la etapa que ocupa la mayor parte del tiempo, puesto que hay una gran cantidad de contingencia a abordar, plataformas en estado de constante mutación, etc. Por lo que quiero aclarar que si bien este es el plan original lo más probable es que haya que realizar cambios en el camino, por lo que ya conseguí la api de twitter la utilizare para recolectar los datos en caso de que por alguna razón el plan que voy a describir a continuación para este punto no pueda llevarse a cabo.
+
+Utilizando la herramienta llamada Sysomos MAP system from Marketwired, como se ha hecho en investigaciones similares [@wagler2015exploring]. Esta herramienta permite obtener tweets en los cuales hayan sido mencionados algún concepto de interés, y permite la exclusión de determinados conceptos que hacer ruido en la búsqueda.
+
+Por lo demás, esta primera base de datos se encuentra contaminada por comentarios que pueden contener el concepto en un contexto que no es el deseado (ejemplo: “la Universidad de Chile tiene una sequía de goles”) , para ello se tendrá que crear un clasificador de texto, con un modelo conocido como Named entity recognition, que permite la segmentación del concepto, además de clasificar cuales entes son mencionados, esto es útil para saber si es que algún organismo es responsabilizado o cuestionado en su actuar.
+
+Para llevar a cabo este modelo habrá que recolectar una muestra de al menos 5000 casos, se utilizara el paquete NLTK del lenguaje de programación python.
+
+##	Detectar opinión (Sentiment analysis)
+
+Una vez reconocido el tópico de la sequía habrá que determinar el tipo de opinión (positiva y negativa), para esto se hará una clasificación de sentimiento, se requerirá de la clasificación de 5000 comentarios, el proceso será llevado a cabo a través del paquete FastAi de python.
+
+## Clasificación de usuarios (Clustering)
+
+Finalmente se segmentara por grupos a los usuarios para llegar a obtener un mejor entendimiento de estos. Se utilizara el paquete FastAi para la agrupación de los usuarios (se utilizaran varios modelos de clasificación hasta determinar cuál es el más apropiado).
+
+# Bibliografia
