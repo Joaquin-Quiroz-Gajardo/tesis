@@ -1,9 +1,0 @@
-0,http://www3.weforum.org/docs/Harnessing_Artificial_Intelligence_for_the_Earth_report_2018.pdf
-1,http://www3.weforum.org/docs/WEF_Building-Blockchains.pdf
-2,https://doi.org/10.1016/j.jclepro.2018.11.081
-3,https://doi.org/10.1016/j.wace.2013.07.002
-4,https://doi.org/10.1016/B978-044452044-9/50013-6
-5,https://doi:10.1177/0049124194022003006
-6,https://doi.org/10.1016/j.eswa.2018.12.043
-7,https://doi.org/10.1016/j.enpol.2013.09.047
-8,http://sabcorpus.linkeddata.es/
